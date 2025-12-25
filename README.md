@@ -1,11 +1,11 @@
-🎮 GameDevloper – Playable Portfolio (WebGL)
+# 🎮 GameDevloper – Playable Portfolio (WebGL)
 
 A fully interactive, game-like portfolio built with Unity WebGL, presented as a top-down pixel-art world.
 Instead of scrolling a website, visitors play through my portfolio — exploring skills, projects, resume, and contact information inside a game environment.
 
 🌐 Live Demo: https://gamedevloper.com
 
-✨ Features
+# ✨ Features
 
 🕹️ Playable Portfolio (not a static website)
 
@@ -13,7 +13,7 @@ Instead of scrolling a website, visitors play through my portfolio — exploring
 
 🧠 Sections unlocked through interaction:
 
-About Me
+# About Me
 
 Unity & Unreal Skills
 
@@ -23,7 +23,7 @@ Gen AI / IoT / 3D Printing
 
 Resume
 
-Contact
+# Contact
 
 🌍 WebGL Full-Screen Build
 
@@ -33,7 +33,8 @@ Contact
 
 🚀 Hosted on custom domain via Hostinger
 
-🗺️ Portfolio World Map
+# 🗺️ Portfolio World Map
+
 Area	Description
 🏠 About Me Hut	Introduction & background
 🧠 Skills Temple	Unity, Unreal, C#, AI, IoT, 3D Printing
@@ -64,7 +65,10 @@ Hosting: Hostinger (Apache)
 
 Domain: gamedevloper.com
 
-📦 Project Structure
+# 📦 Project Structure
+
+``` 
+
 Playable-Portfolio/
 │── Assets/
 │   ├── Art/
@@ -86,42 +90,9 @@ Playable-Portfolio/
 │── index.html
 │── README.md
 
-🚀 Build & Run Locally
-1️⃣ Unity Setup
-
-Unity version: 2022 LTS (recommended)
-
-Platform: WebGL
-
-Compression: Gzip / Brotli
-
-✔ Decompression Fallback enabled
-
-2️⃣ Build WebGL
-File → Build Settings → WebGL → Build
-
-3️⃣ Test Locally
-
-Use a local server:
-
-python -m http.server
+```
 
 
-Open:
-
-http://localhost:8000
-
-🌐 Hosting Notes
-
-Hosted as full-screen WebGL
-
-No iframe
-
-No scrolling
-
-Custom .htaccess for WASM support
-
-HTTPS enabled
 
 🧠 Why This Portfolio?
 
@@ -160,9 +131,9 @@ Game Developer | Unity | WebGL | Gen AI | IoT | 3D Printing
 
 🌐 Website: https://gamedevloper.com
 
-💼 LinkedIn: (add link)
+💼 LinkedIn: https://www.linkedin.com/in/avinash-y-43057196/
 
-📧 Email: (add email)
+📧 Email: avinashy1993@gmail.com
 
 📜 License
 
