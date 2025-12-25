@@ -43,7 +43,7 @@ Area	Description
 📜 Resume Board	View / download resume
 📬 Contact NPC	Email & professional links
 🎮 Controls
-Key	Action
+# Key	Action
 W / A / S / D	Move character
 Arrow Keys	Move character
 E / Space	Interact
@@ -69,26 +69,7 @@ Domain: gamedevloper.com
 
 ``` 
 
-Playable-Portfolio/
-│── Assets/
-│   ├── Art/
-│   │   ├── Characters/
-│   │   ├── UI/
-│   │   └── Environment/
-│   ├── Scripts/
-│   │   ├── Player/
-│   │   ├── UI/
-│   │   └── World/
-│   └── Scenes/
-│
-│── Build/
-│   ├── *.data
-│   ├── *.wasm
-│   ├── *.framework.js
-│   └── *.loader.js
-│
-│── index.html
-│── README.md
+
 
 ```
 

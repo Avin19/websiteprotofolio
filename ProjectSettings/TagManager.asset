@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 3568658961
+    locked: 0
+  - name: Trees
+    uniqueID: 3727292499
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2253307137
+    locked: 0
+  - name: Player
+    uniqueID: 343743833
     locked: 0
