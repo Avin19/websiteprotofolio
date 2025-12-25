@@ -1,33 +1,170 @@
-# Unity Project Setup
+🎮 GameDevloper – Playable Portfolio (WebGL)
 
-## Description
-This project is a Unity3D-based game setup tool designed to streamline development by automating the creation of folders, downloading essential scripts, and managing Unity packages.
+A fully interactive, game-like portfolio built with Unity WebGL, presented as a top-down pixel-art world.
+Instead of scrolling a website, visitors play through my portfolio — exploring skills, projects, resume, and contact information inside a game environment.
 
-## Features
-- Auto-create project structure (Scripts, Materials, Prefabs, etc.).
-- Download essential Unity C# scripts from a remote repository.
-- Automatically download a `.gitignore` file for Unity projects.
-- Manage Unity package dependencies (add/remove packages).
-- Generate a `README.md` file with basic project information.
+🌐 Live Demo: https://gamedevloper.com
 
-## Gameplay
-Provide a brief explanation of the game mechanics.
+✨ Features
 
-## PlantUML Diagrams
-### Class Diagram
-![Class Diagram](out/PlantUml/include/include.svg)
-![Class Diagram](out/PlantUml/include/include.png)
+🕹️ Playable Portfolio (not a static website)
 
-## Screenshots
-<!-- ![Screenshot 2](screenshots/screenshot2.png) -->
+🎨 Pixel-art top-down RPG style
 
-## Development
-This project is developed using Unity3D and C#. Contributions are welcome, including bug fixes, feature enhancements, and optimizations.
+🧠 Sections unlocked through interaction:
 
-## Credits
-This game remake is created by Developer Name.
+About Me
 
-## Feedback
-If you have any feedback, suggestions, or bug reports, please open an issue on GitHub or contact us directly.
+Unity & Unreal Skills
 
-Prepare for liftoff and enjoy your journey to the International Space Station! 🚀
+Projects Showcase
+
+Gen AI / IoT / 3D Printing
+
+Resume
+
+Contact
+
+🌍 WebGL Full-Screen Build
+
+🎮 Keyboard controls (WASD / Arrow Keys)
+
+📱 Web-friendly & optimized for browsers
+
+🚀 Hosted on custom domain via Hostinger
+
+🗺️ Portfolio World Map
+Area	Description
+🏠 About Me Hut	Introduction & background
+🧠 Skills Temple	Unity, Unreal, C#, AI, IoT, 3D Printing
+🎮 Projects Arena	Playable & showcased projects
+🤖 Gen AI Zone	AI experiments & integrations
+📜 Resume Board	View / download resume
+📬 Contact NPC	Email & professional links
+🎮 Controls
+Key	Action
+W / A / S / D	Move character
+Arrow Keys	Move character
+E / Space	Interact
+ESC / M	Open menu
+Mouse	UI interaction
+🛠️ Tech Stack
+
+Engine: Unity (URP, 2D)
+
+Language: C#
+
+Build Target: WebGL
+
+Art Style: Pixel Art
+
+UI: Custom in-game UI (no HTML overlays)
+
+Hosting: Hostinger (Apache)
+
+Domain: gamedevloper.com
+
+📦 Project Structure
+Playable-Portfolio/
+│── Assets/
+│   ├── Art/
+│   │   ├── Characters/
+│   │   ├── UI/
+│   │   └── Environment/
+│   ├── Scripts/
+│   │   ├── Player/
+│   │   ├── UI/
+│   │   └── World/
+│   └── Scenes/
+│
+│── Build/
+│   ├── *.data
+│   ├── *.wasm
+│   ├── *.framework.js
+│   └── *.loader.js
+│
+│── index.html
+│── README.md
+
+🚀 Build & Run Locally
+1️⃣ Unity Setup
+
+Unity version: 2022 LTS (recommended)
+
+Platform: WebGL
+
+Compression: Gzip / Brotli
+
+✔ Decompression Fallback enabled
+
+2️⃣ Build WebGL
+File → Build Settings → WebGL → Build
+
+3️⃣ Test Locally
+
+Use a local server:
+
+python -m http.server
+
+
+Open:
+
+http://localhost:8000
+
+🌐 Hosting Notes
+
+Hosted as full-screen WebGL
+
+No iframe
+
+No scrolling
+
+Custom .htaccess for WASM support
+
+HTTPS enabled
+
+🧠 Why This Portfolio?
+
+Most portfolios:
+
+❌ Static
+❌ Forgettable
+❌ Scroll-based
+
+This portfolio:
+
+✅ Playable
+✅ Memorable
+✅ Shows real game-dev skills
+
+Recruiters don’t just read my work — they play it.
+
+🧩 Future Enhancements
+
+🎵 Audio toggle & ambient music
+
+📱 Mobile touch controls
+
+🎮 Controller support
+
+🔓 Unlockable sections
+
+🧠 Save progress (LocalStorage)
+
+🌐 Multi-language support
+
+👨‍💻 About Me
+
+Avinash Yadav
+Game Developer | Unity | WebGL | Gen AI | IoT | 3D Printing
+
+🌐 Website: https://gamedevloper.com
+
+💼 LinkedIn: (add link)
+
+📧 Email: (add email)
+
+📜 License
+
+This project is for portfolio & showcase purposes.
+All assets and code are © Avinash Yadav unless stated otherwise.
