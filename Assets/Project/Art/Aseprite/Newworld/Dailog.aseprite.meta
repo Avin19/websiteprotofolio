@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 82a05cf7cfe318e45a04d00d8369c464
+guid: a4dce6eb53a265c4d8d0920a19a34d65
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,50 +121,21 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
-  animatedSpriteImportData:
-  - name: Logo
-    originalName: 
-    pivot: {x: 0.5, y: -0.18134715}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 4
-      width: 512
-      height: 386
-    spriteID: 553198eec832fb646819c9d1e9d28490
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 4}
+  animatedSpriteImportData: []
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 2933275975
+      value0: 1457709618
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: Logo
+    name: Dailog
     layerFlags: 0
     layerType: 0
     blendMode: 0
-    cells:
-    - name: Logo
-      frameIndex: 0
-      additiveSortOrder: 0
-      cellRect:
-        x: 0
-        y: 70
-        width: 512
-        height: 386
-      spriteId: 553198eec832fb646819c9d1e9d28490
+    cells: []
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -184,4 +155,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 512, y: 512}
-  previousTextureSize: {x: 1024, y: 512}
+  previousTextureSize: {x: 0, y: 0}

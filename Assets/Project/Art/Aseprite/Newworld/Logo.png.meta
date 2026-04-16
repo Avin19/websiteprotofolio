@@ -185,6 +185,48 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Logo_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 57
+        width: 228
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d889dfe0fc1941a48880da8b16ee2c63
+      internalID: 1132037135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 59
+        width: 183
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9c191ade1e7e24abc7337cd0310c22
+      internalID: -946544900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -198,7 +240,25 @@ TextureImporter:
     nameFileIdTable:
       Logo_0: 1538359469
       Logo_1: -1780410147
+      Logo_10: 1772318544
+      Logo_11: 2146840267
+      Logo_12: -1761381722
+      Logo_13: -249690970
+      Logo_14: -718769541
+      Logo_15: -1950543129
+      Logo_16: -1900326426
+      Logo_17: -1181072510
+      Logo_18: 1553062856
+      Logo_19: -1643660424
       Logo_2: 1418100552
+      Logo_20: -1832202059
+      Logo_3: 1132037135
+      Logo_4: -946544900
+      Logo_5: -1444781284
+      Logo_6: -1079323310
+      Logo_7: 671959369
+      Logo_8: 61927289
+      Logo_9: -1593265047
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
