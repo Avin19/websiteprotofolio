@@ -13,7 +13,7 @@ public class PointOfInterestController : MonoBehaviour
 
     void Start()
     {
-        ProtofolioLoading(infoDetialSO);
+        //ProtofolioLoading(infoDetialSO);
     }
 
     public void ProtofolioLoading(InfoDetialSO _infoDetialSO)

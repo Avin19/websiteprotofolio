@@ -7,6 +7,7 @@ public class EnvironmentInteracttion : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
+        Debug.Log(collision.gameObject.name);
         pointOfInterestController.ProtofolioLoading(infoDetialSO);
     }
 }
