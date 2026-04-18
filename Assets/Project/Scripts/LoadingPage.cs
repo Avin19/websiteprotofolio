@@ -12,6 +12,7 @@ public class LoadingPage : MonoBehaviour
     [SerializeField] private Slider slider;
     private bool sliderStart;
     private float sValue = 0f;
+    [SerializeField] private int loadingSpeed = 10;
     // Start is called before the first frame update
     public void LoadingStart()
     {
@@ -25,7 +26,7 @@ public class LoadingPage : MonoBehaviour
     {
         if (sliderStart)
         {
-            sValue += Time.deltaTime * 5;
+            sValue += Time.deltaTime * loadingSpeed;
             slider.value = sValue;
             if (sValue <= 30f)
             {
