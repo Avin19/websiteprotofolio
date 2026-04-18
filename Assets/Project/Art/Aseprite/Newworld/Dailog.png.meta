@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 04ae376a9d4ab824d85499925a57f707
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dailog_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 448
+        width: 205
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 24, y: 5, z: 23, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839d85f990f30f549b962d7035b09197
+      internalID: -2084409337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dailog_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 413
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc02ca8605ef1d4fa2d579b6227b785
+      internalID: 949931726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dailog_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 190
+        width: 340
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 38, y: 38, z: 38, w: 42}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d709ec304952149978b5d91152173c
+      internalID: -1813105002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dailog_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 108
+        width: 207
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1c07e9a3cb554498ca875a07e04e1f
+      internalID: 145161059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dailog_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 105
+        width: 178
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9accd2d7d3c70842802deb9c11b6bb6
+      internalID: 24163966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dailog_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 54
+        width: 131
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaec91d601002d4e8434eef97467e63
+      internalID: -1736926363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dailog_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 54
+        width: 105
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9253fcd2981cd4e4394ed454a2b5a0d1
+      internalID: -1017627559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dailog_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 54
+        width: 223
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8874eba7185b3a46a4bb435777d408b
+      internalID: 409874317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dailog_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 16
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14496786188edee40b5dd0182bb20f25
+      internalID: -888673074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dailog_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 8
+        width: 175
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28ca3fc11a57b4419e2b5ae091acca8
+      internalID: -974468027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dailog_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 9
+        width: 172
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d228e7f0dc9626c4da5ac66cce9f8e46
+      internalID: 1709712297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dailog_0: 145161059
+      Dailog_1: -2084409337
+      Dailog_10: 1709712297
+      Dailog_11: 15533414
+      Dailog_12: 1384685230
+      Dailog_13: 1710649051
+      Dailog_14: 466584078
+      Dailog_15: -317846018
+      Dailog_16: -621547088
+      Dailog_17: 1890305342
+      Dailog_18: 1231674995
+      Dailog_19: 1983852154
+      Dailog_2: 24163966
+      Dailog_20: 349930714
+      Dailog_21: 918201852
+      Dailog_22: -1764813177
+      Dailog_23: 444693639
+      Dailog_24: -560560900
+      Dailog_25: 847321819
+      Dailog_26: 2107436938
+      Dailog_27: 1023921740
+      Dailog_28: 123652400
+      Dailog_29: 1146287649
+      Dailog_3: 949931726
+      Dailog_30: -223008440
+      Dailog_31: -547966049
+      Dailog_32: -537677601
+      Dailog_33: -148978438
+      Dailog_34: 1809574775
+      Dailog_35: 1392616110
+      Dailog_36: 1332832496
+      Dailog_37: -1784600631
+      Dailog_38: -1050744108
+      Dailog_39: 786243422
+      Dailog_4: -1813105002
+      Dailog_40: 697690687
+      Dailog_41: 1613843972
+      Dailog_42: -737899841
+      Dailog_43: -1758363647
+      Dailog_44: 1999209196
+      Dailog_45: -475144893
+      Dailog_46: 1290884864
+      Dailog_47: 476151521
+      Dailog_48: -1598904256
+      Dailog_49: 64679349
+      Dailog_5: -1736926363
+      Dailog_50: -631154264
+      Dailog_51: 586581607
+      Dailog_52: -1845488621
+      Dailog_53: 1822100646
+      Dailog_6: -1017627559
+      Dailog_7: 409874317
+      Dailog_8: -888673074
+      Dailog_9: -974468027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
