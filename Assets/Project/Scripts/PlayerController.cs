@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         Movement();
+
     }
     private void Movement()
     {

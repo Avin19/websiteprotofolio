@@ -13,7 +13,7 @@ public class PointOfInterestController : MonoBehaviour
 
     void Start()
     {
-        //ProtofolioLoading(infoDetialSO);
+        ProtofolioLoading(infoDetialSO);
     }
 
     public void ProtofolioLoading(InfoDetialSO _infoDetialSO)
@@ -21,6 +21,13 @@ public class PointOfInterestController : MonoBehaviour
         panel.SetActive(true);
         titleMessage.text = _infoDetialSO.Title;
         infoMessage.text = _infoDetialSO.Info.Replace("\\n", "\n");
+    }
+    void Update()
+    {
+        if (Input.GetKey(KeyCode.E))
+        {
+            panel.SetActive(false);
+        }
     }
 
     void OnEnable()
