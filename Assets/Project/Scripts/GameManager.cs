@@ -19,8 +19,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] private Button linkedinBtn;
 
     [SerializeField] private Button itchBtn;
-    [SerializeField] private Button playerstorebtn;
-    [SerializeField] private Button steamPagebtn;
+    [SerializeField] private Button playStorebtn;
+    // [SerializeField] private Button steamPagebtn;
     [Header("GameComopenets")]
     [SerializeField] private GameObject player;
     [SerializeField] private GameObject uI;
@@ -31,7 +31,37 @@ public class GameManager : MonoBehaviour
         resumeBtn.onClick.AddListener(() => DownloadResume());
         githubBtn.onClick.AddListener(() => ShowGithub());
         linkedinBtn.onClick.AddListener(() => LinkedPage());
+        itchBtn.onClick.AddListener(() => ItchShowButton());
+        playStorebtn.onClick.AddListener(() => PlayStoreShow());
+        // steamPagebtn.onClick.AddListener(() => SteamWorkPage());
 
+
+    }
+    void Osable()
+    {
+        playBtn.onClick.RemoveAllListeners();
+        resumeBtn.onClick.RemoveAllListeners();
+        githubBtn.onClick.RemoveAllListeners();
+        linkedinBtn.onClick.RemoveAllListeners();
+        itchBtn.onClick.RemoveAllListeners();
+        playStorebtn.onClick.RemoveAllListeners();
+        //  steamPagebtn.onClick.RemoveAllListeners();
+    }
+
+    private void SteamWorkPage()
+    {
+        Application.OpenURL("https://play.google.com/store/apps/dev?id=7935807604689671060");
+    }
+
+    private void PlayStoreShow()
+    {
+        Application.OpenURL("https://play.google.com/store/apps/dev?id=7935807604689671060");
+
+    }
+
+    private void ItchShowButton()
+    {
+        Application.OpenURL("https://avinashyadav.itch.io/");
     }
 
     private void LinkedPage()
