@@ -10,8 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4079dc244de58424a87f8b3b55298226, type: 3}
-  m_Name: Unity Skills 1
+  m_Name: Experence
   m_EditorClassIdentifier: 
   Title: EXPERIENCE
-  Info: 'C# \n Gameplay Programming \n AI & Procedural Generation \n Physics & VFX
-    \n Optimization Techniques \n Git, JIRA, Blender , Inkscape '
+  Info: "Senior Unity Developer -Magic Software Pvt. Ltd. | Aug 2024 \u2013 Present\\nSenior
+    Unity Developer\nW3 Villa Pvt. Ltd. | Oct 2023 \u2013 Apr 2024\\n Unity Developer\nHestabit
+    Technologies | Feb 2022 \u2013 Jul 2023 \\nTechnical Consultant\nLLF India |
+    Nov 2020 \u2013 Feb 2022\\nFreelance Unity Developer Apr 2017 \u2013 Mar 2020"

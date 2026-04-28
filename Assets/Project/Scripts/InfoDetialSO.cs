@@ -4,5 +4,6 @@ using UnityEngine;
 public class InfoDetialSO : ScriptableObject
 {
     public string Title;
+    [Multiline(40)]
     public string Info;
 }
